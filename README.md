@@ -1,6 +1,6 @@
 # 1. Spring OAuth2
 
-Spring OAuth2 is a project that trains authentication and authorization with delegated access.
+Spring OAuth2 is a project that trains authentication and authorization with delegated access (OAuth2 and OIDC).
 
 # 2. Technologies
 
